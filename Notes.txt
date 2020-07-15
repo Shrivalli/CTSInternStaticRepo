@@ -1,0 +1,1 @@
+My sample notes for creating sample web app in Azure.
